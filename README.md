@@ -1,4 +1,4 @@
-# Data Analyst
+# Market Insights and Strategy Analyst
 
 #### Technical Skills: Python, SQL, R, Stata, MATLAB
 
